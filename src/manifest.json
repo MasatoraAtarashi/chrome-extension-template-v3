@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "chrome-extension-template",
+  "version": "1.0.0",
+  "description": "chrome-extension-template",
+  "browser_action": {
+    "default_title": "chrome-extension-template",
+    "default_icon": {
+      "16": "img/icons/icon16.png",
+      "24": "img/icons/icon24.png",
+      "32": "img/icons/icon32.png"
+    },
+    "default_popup": "html/popup.html"
+  },
+  "permissions": [
+  ],
+  "author": "Author"
+}
