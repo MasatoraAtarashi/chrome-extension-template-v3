@@ -1,5 +1,5 @@
-# chrome-extension-template-v2
-Chrome Extension Template for manifest v2
+# chrome-extension-template-v3
+Chrome Extension Template for manifest v3
 
 # 開発
 ## インストール
